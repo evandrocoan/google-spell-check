@@ -1,3 +1,20 @@
 [
-
+    {
+        "caption": "Local History",
+        "id": "3_row",
+        "children":
+        [
+            { "caption": "-", "id": "1_row" },
+            { "command": "google_spell_check", "caption" : "Google Spell Check" },
+            { "caption": "-", "id": "2_row" },
+            { "caption": "-", "id": "3_row" },
+            { "caption": "-", "id": "4_row" },
+            { "caption": "-", "id": "5_row" },
+            { "caption": "-", "id": "6_row" },
+            { "caption": "-", "id": "7_row" },
+            { "caption": "-", "id": "8_row" },
+            { "caption": "-", "id": "9_row" },
+            { "caption": "-", "id": "10_row" },
+        ]
+    }
 ]
