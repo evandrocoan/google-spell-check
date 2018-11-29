@@ -5,8 +5,8 @@
         "children":
         [
             { "caption": "-", "id": "1_row" },
-            { "command": "google_spell_check", "caption" : "Google Spell Check" },
             { "caption": "-", "id": "2_row" },
+            { "command": "google_spell_check", "caption" : "Google Spell Check" },
             { "caption": "-", "id": "3_row" },
             { "caption": "-", "id": "4_row" },
             { "caption": "-", "id": "5_row" },
